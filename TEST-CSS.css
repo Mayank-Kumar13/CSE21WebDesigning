@@ -5,7 +5,8 @@ h3{
     color: white;
 }
 h1{
-    color:white;
+    color:red;
+    
 }
 p{
     color:white;
@@ -15,4 +16,5 @@ img{
 }
 .box{
     border:2px solid white;
+    
 }
