@@ -3,21 +3,21 @@
     padding: 0px;
 }
 #content{
-    border:10px solid blue;
+    border:10px solid black;
     width:50%;
     height: 100px;
     display: flex;
     
 }
 #b1{
-    background-color: brown;
+    background-color: yellow;
     margin:10px;
     display: inline;
     width:25%;
     
 }
 #b2{
-    background-color: azure;
+    background-color: pink;
   
     display: inline;
     width:25%;
@@ -26,7 +26,7 @@
 
 }
 #b3{
-    background-color: yellow;
+    background-color:darkturquoise;
     
     display: inline;
     width:25%;
@@ -44,9 +44,10 @@
 #content2{
     border:10px solid blue;
     width:50%;
-    
+    justify-content: center;
     display: flex;
     flex-direction: column;
+    align-items: center;
     
 }
 #b5{
